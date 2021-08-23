@@ -1,6 +1,6 @@
 # Projeto final BigData
-Repositório de cógido do Dio Live Coding com AWS EMR e Python.
-Neste repositório há os arquivos de configuração e execução de análise de dados.
+Repositório de cógido do Projeto Final BigData onde desafio seria contar as palavras do livro sherlock ,criando cluster
+no Ambiente AWS
 
 ## Instruções
 
